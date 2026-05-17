@@ -54,6 +54,20 @@ g++ *.cpp -o ImageFilterStudio.exe
 
 ---
 
+# Screenshots
+
+<p align="center">
+  <img src="screenshots/main-ui.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/filters.png" width="700"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Customer Panel.png" width="700"/>
+</p>
+
 # Contributors
 
 - Saad Mehmood
