@@ -40,6 +40,12 @@ A C++ image filtering and image processing desktop application developed using o
 make
 ```
 
+OR
+
+```bash
+g++ *.cpp -o ImageFilterStudio.exe
+```
+
 ## Run
 
 ```bash
