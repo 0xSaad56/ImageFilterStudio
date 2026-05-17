@@ -56,17 +56,14 @@ g++ *.cpp -o ImageFilterStudio.exe
 
 # Screenshots
 
-<p align="center">
-  <img src="screenshots/main-ui.png" width="700"/>
-</p>
+## Main Interface
+<img src="screenshots/main-ui.png" width="800"/>
 
-<p align="center">
-  <img src="screenshots/filters.png" width="700"/>
-</p>
+## Applying Filters
+<img src="screenshots/filters.png" width="800"/>
 
-<p align="center">
-  <img src="screenshots/Customer Panel.png" width="700"/>
-</p>
+## Image Processing Output
+<img src="screenshots/output.png" width="800"/>
 
 # Contributors
 
