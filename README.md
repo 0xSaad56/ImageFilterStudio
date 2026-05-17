@@ -63,7 +63,7 @@ g++ *.cpp -o ImageFilterStudio.exe
 <img src="screenshots/filters.png" width="800"/>
 
 ## Image Processing Output
-<img src="screenshots/output.png" width="800"/>
+<img src="screenshots//Customer Panel.png" width="800"/>
 
 # Contributors
 
